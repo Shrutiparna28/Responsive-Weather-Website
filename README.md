@@ -19,7 +19,7 @@ This project is a simple responsive weather website that provides real-time weat
 To view the website locally, follow these steps:
 
 # Clone the repository:
-git clone https://github.com/your-username/responsive-weather-website.git
+git clone https://github.com/shrutiparna28/responsive-weather-website.git
 cd responsive-weather-website
 Open index.html in a web browser.
 
